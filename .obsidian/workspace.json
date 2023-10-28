@@ -14,8 +14,87 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "0228c01a2bd4e5f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "005_books/個人開発　毎日１万円稼ぐコツ.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e3453d9aa219db1b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
+          },
+          {
+            "id": "a73dfac400206442",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "無題のファイル.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "63778667b20dc9dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "005_books/Obsidianで「つなげる」情報管理術.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e9693de16280b51",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "f9bc46862cda13da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "001_index/無題のファイル 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c419f30b593b03b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "005_books/個人開発　毎日１万円稼ぐコツ.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -81,6 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "005_books/Obsidianで「つなげる」情報管理術.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "005_books/Obsidianで「つなげる」情報管理術.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +199,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "005_books/Obsidianで「つなげる」情報管理術.md"
+              }
             }
           }
         ]
@@ -135,11 +218,22 @@
       "canvas:新規キャンバスを作成": false,
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
-      "command-palette:コマンドパレットを開く": false
+      "command-palette:コマンドパレットを開く": false,
+      "templater-obsidian:Templater": false,
+      "workspaces:ワークスペースレイアウトを管理": false
     }
   },
   "active": "7d7f12187c9648b3",
   "lastOpenFiles": [
+    "007_youtube",
+    "005_books/個人開発　毎日１万円稼ぐコツ.md",
+    "005_books/Obsidianで「つなげる」情報管理術.md",
+    "無題のファイル.md",
+    "001_index/無題のファイル.md",
+    "001_index/無題のファイル 1.md",
+    "001_index/無題のファイル 2.md",
+    "005_books",
+    "004_template/無題のファイル.md",
     "004_template",
     "003_extra",
     "002_daily",
